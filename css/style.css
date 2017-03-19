@@ -1,0 +1,44 @@
+.navBrand {
+	width: 60px;
+	height: 40px;
+}
+.card {
+	margin-bottom: 10px;
+}
+.card-text
+{
+	font-size: 14;
+	font-family: 'Roboto', sans-serif;
+}
+.card-footer {
+	font-size:20;
+}
+
+.body  {
+	background-color:  #d5f6f6;
+	padding-top: 80px
+}
+
+.card {
+	border-color: #BC0737;
+	border-width: 1px
+}
+
+
+.navbar {
+  background-image: url(https://s-media-cache-ak0.pinimg.com/originals/7c/3c/18/7c3c18c72c2c5e275e3303e462bf9ef6.jpg);
+  background-repeat: repeat-x;
+}
+.card-title {
+	color: #BC0737 ;
+	font-size: 18;
+	font-family: 'Roboto', sans-serif;
+}
+.recipes {
+	font-size: 14
+}
+.spotify {
+	border: 1px;
+	border-radius:5px;
+	margin-bottom: 5px;
+}
