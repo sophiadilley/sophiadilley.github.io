@@ -1,61 +1,34 @@
-.navBrand {
-	width: 50px;
-	height: 40px;
-	border-radius: 7px
-}
-.card {
-	margin-bottom: 10px;
-	border-radius: 7px
-}
-.card-text
-{
-	font-size: 14;
-	font-family: 'Righteous', cursive;
-}
+/*element selector*/
 
-.card-footer {
-	font-size:20;
-}
-
-.body  {
-	background-color:  #d5f6f6;
-	padding-top: 80px
-}
-
-.card {
-	border-color: #BC0737;
-	border-width: 2px
+body {
+	color: black;
+	text-align: center;
+	background-image: url();	
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	font-family: "arial";
 	
-
-}
-.card-block {
-  
-  background:repeating-linear-gradient(45deg,
-  #ffffff,
-  #ffffff 5px,
-  #fff7e6 5px,
-  #fff7e6 10px);
-  opacity: 0.75; 
-
-}
-.card-block:hover {
-	opacity: 1
 }
 
-.navbar {
-  background-image: url(https://s-media-cache-ak0.pinimg.com/originals/7c/3c/18/7c3c18c72c2c5e275e3303e462bf9ef6.jpg);
-  background-repeat: repeat-x;
+a {
+	cursor: crosshair; 
 }
-.card-title {
-	color: #BC0737 ;
-	font-size: 25;
-	font-family: 'Lobster', cursive;}
+form {
 
-.recipes {
-	font-size: 14
 }
-.spotify {
-	border: 1px;
-	border-radius:5px;
-	margin-bottom: 5px;
+
+
+/*class selector*/
+.class1 {
+	color: yellow
+}
+.class1:hover {
+	color: pink;
+}
+.class2 {
+	background: pink
+}
+/*id selector*/
+#header2 {
+	cursor: zoom-in;
 }
